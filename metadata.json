@@ -1,0 +1,6 @@
+{
+  "name": "ForgePath Engineering Portfolio",
+  "description": "Interactive engineering portfolio, technical roadmap, GitHub codebase analyzer, gamified learning streak dashboard, playable 2D C# architecture demo, and generative media studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
